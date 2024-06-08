@@ -15,14 +15,6 @@
 A mod menu for Grand Theft Auto V which allows a large set of modifications/cheats to be applied enabling a much more easier & amusing gameplay. This is compatible for multiplayer and offline. Completely undetected!
 </p>
 
-<h2>Features</h2>
-<ul>
-    <li>Feature 1</li>
-    <li>Feature 2</li>
-    <li>Feature 3</li>
-    <li>Etc.</li>
-</ul>
-
 <h2>Installation</h2>
 <p>
     Installation: Download and run the EXE turn off any anti-viruses due to false detections because of the anti-cheat
