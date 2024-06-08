@@ -17,7 +17,7 @@ A mod menu for Grand Theft Auto V which allows a large set of modifications/chea
 
 <h2>Installation</h2>
 <p>
-    Installation: Download and run the EXE turn off any anti-viruses due to false detections because of the anti-cheat
+    Download and run the EXE turn off any anti-viruses due to false detections because of the anti-cheat
 Note: load up the EXE before opening up the game.
 </p>
     This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.
