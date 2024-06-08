@@ -12,7 +12,7 @@
 <h2>Description</h2>
 <p>
     This Repo is the OFFICIAL repo for the GTA cheat "GTA Cheat Hack Menu"
-A mod menu for Grand Theft Auto V which allows a large set of modifications/cheats to be applied enabling a much more easier & amusing gameplay. This is compatible for multiplayer and offline. Completely undetected!
+A mod menu for Grand Theft Auto V which allows a large set of modifications/cheats to be applied enabling a much more easier & amusing gameplay. This is compatible for multiplayer and offline while staying completely undetected!
 </p>
 
 <h2>Installation</h2>
