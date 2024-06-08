@@ -25,5 +25,3 @@ Note: load up the EXE before opening up the game.
 
 </body>
 </html>
-
-# GTACheatHackMenu
