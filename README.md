@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Project Name</h1>
+<h1>GTA Cheat Hack Menu</h1>
 
 <p>
     <img src="https://img.shields.io/github/stars/username/repository" alt="Stars">
