@@ -9,13 +9,6 @@
 
 <h1>GTA Cheat Hack Menu</h1>
 
-<p>
-    <img src="https://img.shields.io/github/stars/username/repository" alt="Stars">
-    <img src="https://img.shields.io/github/forks/username/repository" alt="Forks">
-    <img src="https://img.shields.io/github/issues/username/repository" alt="Issues">
-    <img src="https://img.shields.io/github/license/username/repository" alt="License">
-</p>
-
 <h2>Description</h2>
 <p>
     Brief description of the project. What does it do? Why was it created? Provide a high-level overview of the project’s purpose and goals.
